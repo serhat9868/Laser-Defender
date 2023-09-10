@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4893261cfc5e734498eeedbdd2b88562, type: 3}
+  m_Name: Wawe 41
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 966176943571808965, guid: 8479cec62c84d2e4f8d921c544c860ef, type: 3}
+  moveSpeed: 12
+  enemyPrefabs:
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  - {fileID: 2182015608537926708, guid: 1c081d5ced38bf245b6cf1c2514c34fa, type: 3}
+  minimumSpawnTime: 1
+  timeBetweenEnemySpawns: 0.5
+  spawnTimeVariance: 0.2
